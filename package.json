@@ -1,0 +1,17 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha --reporter spec"
+  },
+  "author": "Lucian Machado",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^3.2.0",
+    "should": "^11.1.1",
+    "superagent": "^3.0.0"
+  }
+}

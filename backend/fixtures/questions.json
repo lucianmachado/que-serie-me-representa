@@ -1,0 +1,101 @@
+[{
+	"id": 1,
+	"peso": 1,
+	"question": "De manhã, você:",
+	"alternatives": [{
+		"description": "Acorda cedo e come frutas cortadas metodicamente.",
+		"serie": "house-of-cards"
+	}, {
+		"description": "Sai da cama com o despertador e se prepara para a batalha da semana.",
+		"serie": "game-of-thrones"
+	}, {
+		"description": "Só consegue lembrar do seu nome depois do café.",
+		"serie": "lost"
+	}, {
+		"description": "Levanta e faz café pra todos da casa.",
+		"serie": "breaking-bad"
+	}, {
+		"description": "Passa o café e conserta um erro no HTML.",
+		"serie": "silicon-valley"
+	}]
+}, {
+	"id": 2,
+	"peso": 2,
+	"question": "Indo para o trabalho você encontra uma senhora idosa caída na rua:",
+	"alternatives": [{
+		"description": "Ela vai atrapalhar seu horário. Oculte o corpo.",
+		"serie": "house-of-cards"
+	}, {
+		"description": "Levanta a senhora e jura protegê­la com sua vida.",
+		"serie": "game-of-thrones"
+	}, {
+		"description": "Ajuda­-a, mas questiona sua real identidade.",
+		"serie": "lost"
+	}, {
+		"description": "Oferece para caminharem juntos até um destino em comum.",
+		"serie": "breaking-bad"
+	}, {
+		"description": "Testa se ela roda bem no Firefox. Não roda.",
+		"serie": "silicon-valley"
+	}]
+}, {
+	"id": 3,
+	"peso": 3,
+	"question": "Chega no prédio e o elevador está cheio:",
+	"alternatives": [{
+		"description": "Convence parte das pessoas a esperarem o próximo.",
+		"serie": "house-of-cards"
+	}, {
+		"description": "Ignora as pessoas no elevador e entra de qualquer forma.",
+		"serie": "game-of-thrones"
+	}, {
+		"description": "Você questiona a realidade, as coisas e tudo mais. Sobe de escada.",
+		"serie": "lost"
+	}, {
+		"description": "Com uma leve intimidação passivo­agressiva, encontra um lugar no elevador.",
+		"serie": "breaking-bad"
+	}, {
+		"description": "Cria um app que mostra a lotação do elevador. Vende o app e fica milionário.",
+		"serie": "silicon-valley"
+	}]
+}, {
+	"id": 4,
+	"peso": 4,
+	"question": "Você chega no trabalho e as convenções sociais te obrigam a puxar assunto:",
+	"alternatives": [{
+		"description": "Fala sobre a política, eleições, como tudo é um absurdo.",
+		"serie": "house-of-cards"
+	}, {
+		"description": "Larga uma frase polêmica e vê uma pequena guerra se formar.",
+		"serie": "game-of-thrones"
+	}, {
+		"description": "Puxa um assunto e te lembram que já foi discutido semana passada.",
+		"serie": "lost"
+	}, {
+		"description": "Sugere que os colegas trabalhem na ideia de um novo projeto.",
+		"serie": "breaking-bad"
+	}, {
+		"description": "Desabafa sobre como odeia PHP. Todo mundo na sala adora PHP.",
+		"serie": "silicon-valley"
+	}]
+}, {
+	"id": 5,
+	"peso": 5,
+	"question": "A pauta pegou o dia todo, mas você está indo para casa:",
+	"alternatives": [{
+		"description": "Vou chamar aqui o meu Uber.",
+		"serie": "house-of-cards"
+	}, {
+		"description": "Pegarei o bus junto com o resto do povo",
+		"serie": "game-of-thrones"
+	}, {
+		"description": "No ponto de ônibus mais uma vez, espero não errar a linha de novo.",
+		"serie": "lost"
+	}, {
+		"description": "Vou de carro, mas ofereço uma carona para os colegas.",
+		"serie": "breaking-bad"
+	}, {
+		"description": "Acho que descobri uma forma de fazer aquela senhora rodar no Firefox.",
+		"serie": "silicon-valley"
+	}]
+}]

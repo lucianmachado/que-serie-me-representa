@@ -1,0 +1,27 @@
+{
+	"house-of-cards" : {
+		"nome" : "House of Cards",
+		"description" : "Você é House of Cards: ataca o problema com método e faz de tudo para resolver a situação.",
+		"image" : "http://localhost:8000/images/house-of-cards.jpg"
+	},
+	"game-of-thrones" : {
+		"nome" : "Game of Thrones",
+		"description" : "Você é Game of Thrones: não tem muita delicadeza nas ações, mas resolve o problema de forma prática.",
+		"image" : "http://localhost:8000/images/game-of-thrones.jpg"
+	},
+	"lost" : {
+		"nome" : "Lost",
+		"description" : "Você é Lost: faz as coisas sem ter total certeza se é o caminho certo ou se faz sentido, mas no final dá tudo certo.",
+		"image" : "http://localhost:8000/images/lost.jpg" 
+	},
+	"breaking-bad" : {
+		"nome" : "Breaking Bad",
+		"description" : "Você é Breaking Bad: pra fazer acontecer você toma a liderança, mas sempre contando com seus parceiros.",
+		"image" : "http://localhost:8000/images/breaking-bad.jpg"
+	},
+	"silicon-valley" : {
+		"nome" : "Silicon Valley",
+		"description" : "Você é Silicon Valley: vive a tecnologia o tempo todo e faz disso um mantra para cada situação no dia.",
+		"image" : "http://localhost:8000/images/silicon-valley.jpg"
+	}	
+}
